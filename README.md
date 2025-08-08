@@ -1,3 +1,2 @@
-<p>- Realizar "Download" para acessar a tabela "Variáveis" que apresenta todas variáveis selecionadas, suas fontes e relaçãoao subíndice ao qual pertecem.</p>
-<p>- Pasta "variáveis_tratadas" contém os arquivos com as variáveis tratadas para criação geoespacial dos dados.</p>
-<p>- Pasta"coleta" contém arquivos de dados coletados.</p>
+<p>- The folder "variáveis_tratadas" contains the files with the preprocessed variables for geospatial data layers construction.</p>
+<p>- The 'coleta' folder contains collected data files.</p>
